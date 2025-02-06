@@ -2,8 +2,4 @@ int a,b;
 a=12;
 b=16;
 Console.Line("Addition of numbers"+a+b);
-int a,b;
-a=109;
-b=1654;
-Console.Line("Multiplication of numbers"+a*b);
 
