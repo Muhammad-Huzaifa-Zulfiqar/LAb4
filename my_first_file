@@ -2,3 +2,8 @@ int a,b;
 a=12;
 b=16;
 Console.Line("Addition of numbers"+a+b);
+int a,b;
+a=21;
+b=68;
+Console.Line("Subtraction of numbers"+ a-b);
+
